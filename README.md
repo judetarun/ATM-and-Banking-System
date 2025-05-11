@@ -19,13 +19,6 @@ To develop the ATM and Banking System using Star UML
 5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 
 UML DIAGRAMS
-![UseCaseDiagram1](https://github.com/user-attachments/assets/ff9ee831-a205-4258-b4e3-dd1c3f857625)
-![ClassDiagramatm](https://github.com/user-attachments/assets/45bf0dc6-1115-4923-bcab-79d6831a0024)
-![SequenceDiagramatm](https://github.com/user-attachments/assets/43f1c431-dae0-4edc-9ebf-60e8111b643f)
-
-
-
-
 
 # USE CASE DIAGRAM
 
@@ -34,6 +27,7 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -46,6 +40,7 @@ Specifying the context and requirements of a system
 
 
 
+![UseCaseDiagram1](https://github.com/user-attachments/assets/ff9ee831-a205-4258-b4e3-dd1c3f857625)
 
 
 
@@ -64,8 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-
-
+![ClassDiagramatm](https://github.com/user-attachments/assets/45bf0dc6-1115-4923-bcab-79d6831a0024)
 # COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
@@ -125,6 +119,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+![SequenceDiagramatm](https://github.com/user-attachments/assets/43f1c431-dae0-4edc-9ebf-60e8111b643f)
 
 
 
