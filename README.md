@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040144
+# Name:JUDE TARUN
+# Date:11.05.2025
 
 
 # AIM:
@@ -19,6 +19,13 @@ To develop the ATM and Banking System using Star UML
 5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 
 UML DIAGRAMS
+![UseCaseDiagram1](https://github.com/user-attachments/assets/ff9ee831-a205-4258-b4e3-dd1c3f857625)
+![ClassDiagramatm](https://github.com/user-attachments/assets/45bf0dc6-1115-4923-bcab-79d6831a0024)
+![SequenceDiagramatm](https://github.com/user-attachments/assets/43f1c431-dae0-4edc-9ebf-60e8111b643f)
+
+
+
+
 
 # USE CASE DIAGRAM
 
